@@ -7,10 +7,16 @@ button
 {
     color :hotpink;
     font-style: italic;
+    font-variant-position: super;
 }
 #para2
 {
     color:indigo;
     font-style: initial;
      background-color: yellow;
+}
+.content
+{
+   Color:lightblue;
+   background-color: mediumaquamarine;
 }
