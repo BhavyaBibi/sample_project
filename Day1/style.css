@@ -20,3 +20,13 @@ button
    Color:lightblue;
    background-color: mediumaquamarine;
 }
+div{
+    height:400px;
+    width:800px;
+    color:white;
+    background-color: green;
+    margin-left:35px;
+    margin-top:24px;
+    padding-top:30px;
+    padding-left:50px;
+}
