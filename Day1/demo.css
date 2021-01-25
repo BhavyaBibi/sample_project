@@ -4,16 +4,20 @@
     height:150px;
     background:orange;
 }
+h1{
+    text-align:center;
+    margin:0 auto
+}
 .left-section
 {
-width:200px;
+width:20%;
 height:400px;
 background:orchid;
 float:left;
 }
 .right-section
 {
-    width:1148px;
+    width:80%;
     height:400px;
     background:rgb(27, 168, 62);
     float:left;
