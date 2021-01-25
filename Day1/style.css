@@ -20,13 +20,24 @@ button
    Color:lightblue;
    background-color: mediumaquamarine;
 }
-div{
-    height:400px;
-    width:800px;
-    color:white;
-    background-color: green;
-    margin-left:35px;
-    margin-top:24px;
-    padding-top:30px;
-    padding-left:50px;
+.outerbox{
+    border:1px;
+    border-color:red;
+    background:rgb(51, 30, 170);
+    color:#fff;
+    width:300px;
+    height:200px;
+
 }
+.box{
+    margin-left:100px;
+    padding:50px;
+}
+.inner-div{
+    margin:10px;
+    background:orange; 
+    width:200px;
+    height:100px;
+    
+}
+
